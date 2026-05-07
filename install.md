@@ -1,3 +1,5 @@
+Diese schritte werden automatisch durch den Script [install.sh](install.sh) ausgeführt.
+
 ## 0. Install Setup
 - Nenne den Benutzer am besten root oder admin oder etwas anderes, Hauptsache nicht xibo.
 
